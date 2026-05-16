@@ -72,10 +72,10 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td align="center" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hope2333&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://stats.programcx.cn/api?username=Hope2333&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </td>
 <td align="center" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hope2333&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://stats.programcx.cn/api/top-langs/?username=Hope2333&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8" alt="Top Languages" />
 </td>
 </tr>
 </table>
@@ -86,7 +86,7 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hope2333&theme=onedark&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+<img src="https://gh-trophy.cdnsoft.net/?username=Hope2333&theme=onedark&no-frame=true&column=7&margin-w=15" alt="Trophies" />
 
 </div>
 
