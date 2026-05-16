@@ -12,6 +12,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=Hope2333&style=flat-square&color=blue" alt="Profile Views" />
 
+[![English](https://img.shields.io/badge/🌐_English_Version-3178C6?style=flat-square)](./README.md)
+
 </div>
 
 ---
