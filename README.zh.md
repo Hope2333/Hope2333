@@ -1,95 +1,101 @@
 <div align="center">
 
-# Hope2333
+# 幽零小喵
 
-数字媒体艺术专业学生，走技术美术方向。
+### Hope2333
 
-[English README](./README.md) · [GitHub](https://github.com/Hope2333)
+**技术美术** · 动画工具链 · Linux 工程
+
+*一个爱乱跑写代码的喵系大学牲。* 🐱
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Hope2333&style=flat-square&color=blue" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 关于我
-
-我是数字媒体艺术专业的大学生，目标方向是 **Technical Artist / 技术美术**：连接视觉创作、动画系统、工具开发和底层工程。
-
-我现在主要关注三条相互交叉的方向：
-
-- **技术美术与动画工具**：2D 动画、创作管线、图形相关 C++ 工程，以及面向创作者的工作流改进。
-- **AI 辅助开发系统**：OpenCode/agent 工作流、长期 AI 协作、模型路由和可复现工具链。
-- **Linux、Android 与 Termux 工程**：打包、运行时适配、Shell 自动化，以及在受限环境中运行完整开发工具。
-
-我喜欢那些能把艺术与工程真正接起来的项目：动画软件、创作脚本、Android/Linux 运行时，以及能实际参与构建工作的 AI 系统。
+> 代码与画布交汇之处，系统亦可为艺术。
+> 用 C++ 构建动画工具链，用 AI 辅助开发工作流，在移动设备上驯服 Linux。
+> 骨子里是只猫——好奇、独立、总能四脚着地。
 
 ---
 
-## 当前关注
+### 🛠️ Termux 与 Android
 
-- 数字媒体艺术专业学习，技术美术路线。
-- OpenCode 与 AI CLI 工具在 Termux/Android 上的运行和打包。
-- 长周期 AI 协作、记忆、交接与执行框架。
-- C++ 动画软件、Linux 图形工作流和创作工具基础设施。
+- **[opencode-termux](https://github.com/Hope2333/opencode-termux)** — OpenCode 的 Termux/Android 移植，旗舰项目 &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/opencode-termux?style=social)
+- **[opencode-plugins-termux](https://github.com/Hope2333/opencode-plugins-termux)** — OpenCode Termux 插件构建器 &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/opencode-plugins-termux?style=social)
+- **[bun-termux](https://github.com/Hope2333/bun-termux)** — Termux 上的 Bun 运行时 &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/bun-termux?style=social)
+- **[exagear-obb](https://github.com/Hope2333/exagear-obb)** — ExaGear OBB 构建脚本 &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/exagear-obb?style=social)
 
----
+### 🤖 AI 与工具链
 
-## 代表项目
+- **[oh-my-litecode](https://github.com/Hope2333/oh-my-litecode)** — AI CLI 工具链管理器 (OML) &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/oh-my-litecode?style=social)
+- **[AI-LTC](https://github.com/Hope2333/AI-LTC)** — 长期 AI 协调框架 &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/AI-LTC?style=social)
 
-### 技术美术、动画与创作工具
+### 🎨 技术美术与系统
 
-| 项目 | 简介 |
-| --- | --- |
-| [enve](https://github.com/Hope2333/enve) | 围绕 2D 动画软件代码库的 C++ 构建、现代化与维护工作。 |
-| [MirrorGuard](https://github.com/Hope2333/MirrorGuard) | C 语言实现的文件完整性校验与验证工具，包含 TUI 工作流。 |
-| [SMFCov](https://github.com/Hope2333/SMFCov) | 基于 Shell 的媒体与文件转换工具。 |
-
-### AI 与开发工具
-
-| 项目 | 简介 |
-| --- | --- |
-| [AI-LTC](https://github.com/Hope2333/AI-LTC) | 面向长期 AI 协作的规划、记忆、交接与跨仓库执行框架。 |
-| [oh-my-litecode](https://github.com/Hope2333/oh-my-litecode) | 面向 OpenCode/OMO/OML 工作流的 AI CLI 工具链管理器。 |
-| [moe-opencode](https://github.com/Hope2333/moe-opencode) | 可迁移的 OpenCode/OMO/OML 非敏感配置与知识同步。 |
-| [oml-tools](https://github.com/Hope2333/oml-tools) | OML 外部工具契约与 MCP gateway 相关工作。 |
-
-### Termux 与 Android 运行时
-
-| 项目 | 简介 |
-| --- | --- |
-| [opencode-termux](https://github.com/Hope2333/opencode-termux) | OpenCode 在 Termux/Android 上的打包与运行时适配。 |
-| [bun-termux](https://github.com/Hope2333/bun-termux) | Bun runtime 的 Termux 适配。 |
-| [opencode-plugins-termux](https://github.com/Hope2333/opencode-plugins-termux) | OpenCode Termux 插件构建与打包支持。 |
-| [exagear-obb](https://github.com/Hope2333/exagear-obb) | 快速制作 ExaGear OBB 文件的脚本工具。 |
+- **[MirrorGuard](https://github.com/Hope2333/MirrorGuard)** — 基于 C 的文件完整性检查器（带 TUI） &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/MirrorGuard?style=social)
+- **[SMFCov](https://github.com/Hope2333/SMFCov)** — 基于 Shell 的媒体转换器 &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/SMFCov?style=social)
+- **[tsac-ng](https://github.com/Hope2333/tsac-ng)** — 基于 C 的多后端神经音频编解码器 &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/tsac-ng?style=social)
+- **[enve](https://github.com/Hope2333/enve)** — 2D 动画软件（fork） &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/enve?style=social)
 
 ---
-
-## 工具与语言
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-Animation%20Tooling-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Shell-Automation-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell"/>
-  <img src="https://img.shields.io/badge/TypeScript-AI%20Tooling-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-Workflow%20Systems-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Go-Utilities-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Linux-Creative%20Workstation-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Android-Termux-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-</p>
-
----
-
-## GitHub 统计
 
 <div align="center">
 
-![Hope2333's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hope2333&show_icons=true&theme=default&hide_border=true&count_private=true)
+### ✦ 技术栈
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hope2333&layout=compact&hide_border=true)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
 
 </div>
 
 ---
 
-## 联系
+<div align="center">
 
-- 可以在相关仓库里开 issue。
-- 也可以查看我的 GitHub profile 联系方式。
+### ✦ GitHub 数据
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hope2333&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</td>
+<td align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hope2333&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Hope2333&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hope2333&theme=onedark&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"并非所有流浪者都迷失了方向。"* —— J.R.R. 托尔金
+
+<br/>
+
+🐱 **幽零小喵** · Hope2333 · 广东，中国
+
+</div>
