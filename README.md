@@ -5,6 +5,7 @@
 ### Hope2333
 
 **Technical Artist** · Animation Tooling · Linux Engineering
+**Termux & AI Toolchain** · Linux-on-Android
 
 *A cat-spirited wanderer through code and creativity.* 🐱
 
@@ -20,7 +21,7 @@
 
 > Where code meets canvas, where systems become art.
 > Building animation tooling in C++, crafting AI-assisted workflows,
-> and taming Linux on mobile devices.
+> and taming Linux on mobile devices — packaging AI coding tools for Termux.
 > A cat at heart — curious, independent, always landing on my feet.
 
 ---
@@ -28,7 +29,11 @@
 ### 🛠️ Termux & Android
 
 - **[opencode-termux](https://github.com/Hope2333/opencode-termux)** — OpenCode on Termux/Android, the flagship project &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/opencode-termux?style=social)
-- **[opencode-plugins-termux](https://github.com/Hope2333/opencode-plugins-termux)** — Plugin builder for OpenCode on Termux &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/opencode-plugins-termux?style=social)
+- **[MiMoCode-Termux](https://github.com/Hope2333/MiMoCode-Termux)** — MiMoCode for Termux, based on opencode-termux &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/MiMoCode-Termux?style=social)
+- **[codegraph-termux](https://github.com/Hope2333/codegraph-termux)** — Local-first code intelligence for AI agents (MCP) &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/codegraph-termux?style=social)
+- **[codebuff-termux](https://github.com/Hope2333/codebuff-termux)** — Codebuff AI coding assistant for Termux &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/codebuff-termux?style=social)
+- **[freebuff-termux](https://github.com/Hope2333/freebuff-termux)** — Freebuff AI coding assistant for Termux &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/freebuff-termux?style=social)
+- **[oh-my-tmux](https://github.com/Hope2333/oh-my-tmux)** — Lightweight Oh My Tmux configuration with performance tweaks &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/oh-my-tmux?style=social)
 - **[bun-termux](https://github.com/Hope2333/bun-termux)** — Bun runtime for Termux &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/bun-termux?style=social)
 - **[exagear-obb](https://github.com/Hope2333/exagear-obb)** — ExaGear OBB builder scripts &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/exagear-obb?style=social)
 
@@ -39,9 +44,9 @@
 
 ### 🎨 Technical Art & Systems
 
+- **[tsac-ng](https://github.com/Hope2333/tsac-ng)** — Multi-backend neural audio codec in C &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/tsac-ng?style=social)
 - **[MirrorGuard](https://github.com/Hope2333/MirrorGuard)** — C-based file integrity checker with TUI &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/MirrorGuard?style=social)
 - **[SMFCov](https://github.com/Hope2333/SMFCov)** — Shell-based media converter &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/SMFCov?style=social)
-- **[tsac-ng](https://github.com/Hope2333/tsac-ng)** — Multi-backend neural audio codec in C &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/tsac-ng?style=social)
 - **[enve](https://github.com/Hope2333/enve)** — 2D animation software (fork) &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/enve?style=social)
 
 ---
@@ -57,6 +62,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)

@@ -5,6 +5,7 @@
 ### Hope2333
 
 **技术美术** · 动画工具链 · Linux 工程
+**Termux 与 AI 工具链** · Linux-on-Android
 
 *一个爱乱跑写代码的喵系大学牲。* 🐱
 
@@ -19,7 +20,8 @@
 ---
 
 > 代码与画布交汇之处，系统亦可为艺术。
-> 用 C++ 构建动画工具链，用 AI 辅助开发工作流，在移动设备上驯服 Linux。
+> 用 C++ 构建动画工具链，用 AI 辅助开发工作流，
+> 在移动设备上驯服 Linux——为 Termux 打包 AI 编码工具。
 > 骨子里是只猫——好奇、独立、总能四脚着地。
 
 ---
@@ -27,7 +29,11 @@
 ### 🛠️ Termux 与 Android
 
 - **[opencode-termux](https://github.com/Hope2333/opencode-termux)** — OpenCode 的 Termux/Android 移植，旗舰项目 &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/opencode-termux?style=social)
-- **[opencode-plugins-termux](https://github.com/Hope2333/opencode-plugins-termux)** — OpenCode Termux 插件构建器 &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/opencode-plugins-termux?style=social)
+- **[MiMoCode-Termux](https://github.com/Hope2333/MiMoCode-Termux)** — MiMoCode 的 Termux 移植，基于 opencode-termux &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/MiMoCode-Termux?style=social)
+- **[codegraph-termux](https://github.com/Hope2333/codegraph-termux)** — 面向 AI 智能体的本地优先代码智能 (MCP) &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/codegraph-termux?style=social)
+- **[codebuff-termux](https://github.com/Hope2333/codebuff-termux)** — Codebuff AI 编码助手 Termux 移植 &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/codebuff-termux?style=social)
+- **[freebuff-termux](https://github.com/Hope2333/freebuff-termux)** — Freebuff AI 编码助手 Termux 移植 &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/freebuff-termux?style=social)
+- **[oh-my-tmux](https://github.com/Hope2333/oh-my-tmux)** — 轻量 Oh My Tmux 配置，带性能优化 &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/oh-my-tmux?style=social)
 - **[bun-termux](https://github.com/Hope2333/bun-termux)** — Termux 上的 Bun 运行时 &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/bun-termux?style=social)
 - **[exagear-obb](https://github.com/Hope2333/exagear-obb)** — ExaGear OBB 构建脚本 &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/exagear-obb?style=social)
 
@@ -38,9 +44,9 @@
 
 ### 🎨 技术美术与系统
 
+- **[tsac-ng](https://github.com/Hope2333/tsac-ng)** — 基于 C 的多后端神经音频编解码器 &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/tsac-ng?style=social)
 - **[MirrorGuard](https://github.com/Hope2333/MirrorGuard)** — 基于 C 的文件完整性检查器（带 TUI） &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/MirrorGuard?style=social)
 - **[SMFCov](https://github.com/Hope2333/SMFCov)** — 基于 Shell 的媒体转换器 &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/SMFCov?style=social)
-- **[tsac-ng](https://github.com/Hope2333/tsac-ng)** — 基于 C 的多后端神经音频编解码器 &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/tsac-ng?style=social)
 - **[enve](https://github.com/Hope2333/enve)** — 2D 动画软件（fork） &nbsp; ![Stars](https://img.shields.io/github/stars/Hope2333/enve?style=social)
 
 ---
@@ -56,6 +62,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
