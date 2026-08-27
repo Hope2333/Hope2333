@@ -15,6 +15,10 @@
 
 [![中文](https://img.shields.io/badge/📖_中文版本-CC6699?style=flat-square)](./README.zh.md)
 
+<br/>
+
+[![Sponsor on AFDIAN](https://img.shields.io/badge/❤️_Sponsor-AFDIAN_hope2333-946CE6?style=flat-square&logo=afdian&logoColor=white)](https://ifdian.net/a/hope2333) [![Sponsor on Ko-fi](https://img.shields.io/badge/☕_Ko--fi-neko2333-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/neko2333)
+
 </div>
 
 ---
