@@ -15,6 +15,10 @@
 
 [![English](https://img.shields.io/badge/🌐_English_Version-3178C6?style=flat-square)](./README.md)
 
+<br/>
+
+[![通过爱发电赞助](https://img.shields.io/badge/❤️_赞助本喵-爱发电_hope2333-946CE6?style=flat-square&logo=afdian&logoColor=white)](https://ifdian.net/a/hope2333) [![在 Ko-fi 上赞助](https://img.shields.io/badge/☕_Ko--fi-neko2333-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/neko2333)
+
 </div>
 
 ---
